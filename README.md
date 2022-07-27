@@ -1,6 +1,6 @@
 # Cruce-vtex
 
-\_En este repositorio podremos encontrar diferentes tipos de peticiones hacia VTEX
+_En este repositorio podremos encontrar diferentes tipos de peticiones hacia VTEX_
 
 ### Instalación 🔧
 
